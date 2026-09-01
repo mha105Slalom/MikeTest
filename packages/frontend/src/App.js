@@ -64,7 +64,7 @@ function App() {
       
       <main>
         <section className="add-item-section">
-          <h2>Add New Item</h2>
+          <h2>Add New Stuff</h2>
           <form onSubmit={handleSubmit}>
             <input
               type="text"
